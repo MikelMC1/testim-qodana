@@ -138,7 +138,7 @@ public class UserManager {
         userManager.printoldestUser();
         userManager.printUsersAverageAge();
         userManager.clear();
-        userManager.changeUserAge("Dave", 40);
+        userManager.changeUserAge("Dave", 41);
         userManager.printUserDetails();
         userManager.printoldestUser();
         userManager.printUsersAverageAge();
